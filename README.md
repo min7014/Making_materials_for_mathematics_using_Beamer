@@ -25,3 +25,4 @@ Beamer를 활용한 수학 수업자료 만들기
 
 [Titlepage](./00050_Titlepage.md)
 
+[Theme적용](./00060_Theme적용.md)
