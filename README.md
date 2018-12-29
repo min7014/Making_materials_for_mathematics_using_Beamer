@@ -26,3 +26,5 @@
 [Titlepage](./00050_Titlepage.md)
 
 [Theme적용](./00060_Theme적용.md)
+
+[Themecolor적용](./00070_Themecolor적용.md)
