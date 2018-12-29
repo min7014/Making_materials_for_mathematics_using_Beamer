@@ -5,7 +5,8 @@ Beamer를 활용한 수학 수업자료 만들기
 정리해둔 곳입니다.
 
 [http://min7014.iptime.org/origin/수학자료실/tex/Beamer강좌.htm](http://min7014.iptime.org/origin/수학자료실/tex/Beamer강좌.htm)
-[https://wikidocs.net/book/1331](https://wikidocs.net/book/1331)
+
+[https://github.com/min7014/Making-materials-for-mathematics-using-Beamer](https://github.com/min7014/Making-materials-for-mathematics-using-Beamer)
 
 
 의 내용을 글로 남기려고 합니다.
