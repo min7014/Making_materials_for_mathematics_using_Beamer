@@ -14,20 +14,3 @@ Beamer를 활용한 수학 수업자료 만들기
 
 생각보다 이 글을 정리할 시간이 걸리겠습니다.
 
-
-
-
-\documentclass[serif]{beamer} 
-
-\usepackage[english]{babel}
-
-\begin{document}
-
-
-\begin{frame}
-
-  Beamer presentation 
-
-\end{frame}
-
-\end{document}
