@@ -15,4 +15,4 @@ Beamer를 활용한 수학 수업자료 만들기
 
 생각보다 이 글을 정리할 시간이 걸리겠습니다.
 
-[https://github.com/min7014/Making-materials-for-mathematics-using-Beamer/blob/master/00010%20%EC%8B%9C%EC%9E%91.md](시작)
+[시작](https://github.com/min7014/Making-materials-for-mathematics-using-Beamer/blob/master/00010%20%EC%8B%9C%EC%9E%91.md)
