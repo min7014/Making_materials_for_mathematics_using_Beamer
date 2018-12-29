@@ -8,7 +8,7 @@
 
 의 내용을 
 
-[https://github.com/min7014/Making-materials-for-mathematics-using-Beamer](https://github.com/min7014/Making-materials-for-mathematics-using-Beamer)
+[https://github.com/min7014/Making_materials_for_mathematics_using_Beamer](https://github.com/min7014/Making_materials_for_mathematics_using_Beamer)
 
 에다가 작성합니다.
 
