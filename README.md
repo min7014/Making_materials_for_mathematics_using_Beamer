@@ -1,1 +1,14 @@
-# beamer_presentation_by-min
+\documentclass[serif]{beamer} 
+
+\usepackage[english]{babel}
+
+\begin{document}
+
+
+\begin{frame}
+
+  Beamer presentation 
+
+\end{frame}
+
+\end{document}
