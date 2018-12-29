@@ -6,10 +6,11 @@
 
 [http://min7014.iptime.org/origin/수학자료실/tex/Beamer강좌.htm](http://min7014.iptime.org/origin/수학자료실/tex/Beamer강좌.htm)
 
+의 내용을 
+
 [https://github.com/min7014/Making-materials-for-mathematics-using-Beamer](https://github.com/min7014/Making-materials-for-mathematics-using-Beamer)
 
-
-의 내용을 글로 남기려고 합니다.
+에다가 작성합니다.
 
 분명 다 안다고 생각했는데 정리해서 쓰다보면 모르는 것이 많습니다.
 
