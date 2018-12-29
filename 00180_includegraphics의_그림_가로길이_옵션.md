@@ -39,7 +39,7 @@
 \institute[Universities of Somewhere and Elsewhere] 
 {
   \inst{1}%
-  Department of Mathematice\\
+  Department of Mathematics\\
   Kangwon Science High School
   \and
   \inst{2}%
