@@ -49,4 +49,4 @@
 
 [00170 그림삽입](./00170_그림삽입.md)
 
-[00180 includegraphics의 그림 가로길이 옵션](./00180_includegraphics의_그림_가로길이_옵션.md)
+[00180 \includegraphics의 그림 가로길이 옵션](./00180_includegraphics의_그림_가로길이_옵션.md)
