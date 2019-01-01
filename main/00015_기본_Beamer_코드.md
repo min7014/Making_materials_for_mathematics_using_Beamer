@@ -4,6 +4,8 @@
 
 가장 기본적인 Beamer 코드이다. 
 
+http://faq.ktug.org/wiki/uploads/MathFonts.pdf
+
 ```
 \documentclass[serif]{beamer} 
 \usepackage[english]{babel}
