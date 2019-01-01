@@ -6,18 +6,13 @@
 
 ```
 \documentclass[serif]{beamer} 
-
 \usepackage[english]{babel}
-
 \begin{document}
+  \begin{frame}
 
+    Beamer presentation 
 
-\begin{frame}
-
-  Beamer presentation 
-
-\end{frame}
-
+  \end{frame}
 \end{document}
 ```
 
