@@ -3,7 +3,8 @@
 # 기본 Beamer 코드
 
 가장 기본적인 Beamer 코드이다. 
-
+\documentclass[serif]{beamer}
+은 beamer를 선언한 것이다. serif는 beamer에서 전체적으로 쓰는 폰트를 설정하는 곳이다. 어떤 폰트를 쓸지는 취향에 따라 다를 수 있는데, 아래의 링크문서를 참고해서 쓰고 싶은 폰트를 쓰면 될 것이다.
 http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 
 ```
