@@ -29,15 +29,19 @@ serif는 beamer에서 전체적으로 쓰는 폰트를 설정하는 곳이다. �
 
 http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 
+```
 \begin{document} 
 
 \end{document}
+```
 
 은 문서의 시작과 끝을 의미한다.
 
+```
 \begin{frame}
 
 \end{frame}
+```
 
 은 프리젠테이션 할 한 장을 의미한다. 이 사이에 Beamer presentation을 글로 표현하게 되는 것이다.
 
