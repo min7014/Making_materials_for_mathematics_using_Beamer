@@ -33,7 +33,13 @@ http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 
 \end{document}
 
-은 문서의 시작과 끝을 의미
+은 문서의 시작과 끝을 의미한다.
+
+\begin{frame}
+
+\end{frame}
+
+은 프리젠테이션 할 한 장을 의미한다.
 
 
 [00020 한글사용](./00020_한글사용.md)
