@@ -47,6 +47,7 @@ http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 
 은 프리젠테이션 할 한 장을 의미한다. 이 사이에 Beamer presentation을 글로 표현하게 되는 것이다.
 
+![00010.png](./00010.png)
 
 
 [00010.tex](./00010.tex) : Tex 파일
