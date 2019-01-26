@@ -49,7 +49,10 @@ http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 
 
 
-[00010.tex](./00010.tex), [00010.pdf](./00010.pdf)
+[00010.tex](./00010.tex) : Tex 파일
+
+[00010.pdf](./00010.pdf) : pdf 파일
+ 
 
 
 [00020 한글사용](./00020_한글사용.md)
