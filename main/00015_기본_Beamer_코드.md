@@ -48,6 +48,13 @@ http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 은 프리젠테이션 할 한 장을 의미한다. 이 사이에 Beamer presentation을 글로 표현하게 되는 것이다.
 
 
+
+[00010.tex](./00010.tex), [00010.pdf](./00010.pdf)
+
+
 [00020 한글사용](./00020_한글사용.md)
+
+
+
 
 [목차](./README.md)
