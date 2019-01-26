@@ -15,12 +15,15 @@ http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 ```
 \documentclass[serif]{beamer} 
 \usepackage[english]{babel}
+
 \begin{document}
+
   \begin{frame}
 
     Beamer presentation 
 
   \end{frame}
+  
 \end{document}
 ```
 
