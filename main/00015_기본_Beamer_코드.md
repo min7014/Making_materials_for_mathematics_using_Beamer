@@ -21,7 +21,9 @@
 ```
 가장 기본적인 Beamer 코드이다. 
 
+```
 \documentclass[serif]{beamer}
+```
 
 은 beamer를 선언한 것이다. 
 
