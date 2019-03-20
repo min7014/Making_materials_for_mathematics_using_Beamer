@@ -50,9 +50,9 @@ http://faq.ktug.org/wiki/uploads/MathFonts.pdf
 ![00010.png](./00010.png)
 
 
-[00010.tex](./00010.tex) : Tex 파일
+[00010.tex](https://min7014.github.io/Making_materials_for_mathematics_using_Beamer/main/00010.tex) : Tex 파일
 
-[00010.pdf](./00010.pdf) : pdf 파일
+[00010.pdf](https://min7014.github.io/Making_materials_for_mathematics_using_Beamer/main/00010.pdf) : pdf 파일
  
 
 
