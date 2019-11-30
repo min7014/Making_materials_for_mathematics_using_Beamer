@@ -2,9 +2,7 @@
 
 # Frame Title
 
-```
-\frametitle{Frame Title}
-```
+
 
 ```
 \documentclass[serif]{beamer} 
@@ -25,6 +23,10 @@
 
 
 \end{document}
+```
+프리젠테이션 할 한 프레임에 대한 제목을 넣어보자. 
+```
+\frametitle{Frame Title}
 ```
 
 
