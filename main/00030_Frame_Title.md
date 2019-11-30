@@ -1,3 +1,5 @@
+이전 내용 : [00020 한글사용](./00020_한글사용.md)
+
 ```
 \frametitle{Frame Title}
 ```
@@ -24,7 +26,7 @@
 ```
 
 
-[00040 Frame Subtitle](./00040_Frame_Subtitle.md)
+다음 내용 : [00040 Frame Subtitle](./00040_Frame_Subtitle.md)
 
 
 [목차](./README.md)
