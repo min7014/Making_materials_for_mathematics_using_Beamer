@@ -1,5 +1,7 @@
 이전 내용 : [00020 한글사용](./00020_한글사용.md)
 
+# Frame Title
+
 ```
 \frametitle{Frame Title}
 ```
